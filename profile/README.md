@@ -1,94 +1,126 @@
 # ThaiOpenGov Lab
 
-**ThaiOpenGov Lab** is an independent open-source initiative focused on building open standards and tools for transparent public governance and public procurement.
+**ThaiOpenGov Lab** is an independent open lab exploring how public governance, procurement, and system design can become more **traceable, machine-readable, and accountable**.
 
-Our goal is to explore how modern technology, open collaboration, and machine-readable specifications can improve how public sector projects are designed, specified, and delivered.
+The lab began from a practical question around improving Terms of Reference (TOR), but its direction has expanded into a broader foundation:
 
-Although the initiative originates from Thailand, the projects under this organization are designed to remain **neutral, vendor-agnostic, and globally applicable** wherever possible.
+> **How can complex systems preserve the traceability of intent over time?**
+
+We explore this question through open standards, documentation models, and future tooling that aim to make public-sector project design easier to understand, review, compare, and improve.
 
 ---
 
 ## Mission
 
-To build **open, transparent, and machine-readable standards** that support fair and accountable public sector innovation.
+To build open foundations for **intent-traceable systems**.
 
-We aim to enable:
+This includes work on:
 
-- clearer project specifications
-- transparent procurement processes
-- reusable open standards
-- AI-assisted analysis and validation of public project documents
+- intent-centered governance concepts
+- machine-readable specifications
+- public procurement documentation models
+- AI-friendly standards and validation workflows
+- reusable examples, patterns, and tools
 
 ---
 
-## Key Principles
+## Why This Lab Exists
 
-### Transparency
+Many public-sector processes preserve procedure and documentation, but gradually lose the original intent they were meant to serve.
 
-All specifications, discussions, and development processes are open to the public.
+This creates recurring problems such as:
+
+- broken governance
+- hollow or meaningless compliance
+- specification-driven bureaucracy
+- project drift between goals, requirements, and outcomes
+- documents that are visible, but not truly traceable over time
+
+ThaiOpenGov Lab exists to explore open, practical responses to these problems.
+
+---
+
+## Core Principles
+
+### Intent Traceability
+Systems should make it possible to trace decisions, requirements, and outcomes back to the intent they were meant to serve.
+
+### Evolvable Intent
+Intent may change as knowledge, constraints, and context change, but those changes should remain explicit and traceable.
 
 ### Vendor Neutrality
-
-Projects avoid vendor lock-in and proprietary bias whenever possible.
+Standards and models should avoid unnecessary vendor lock-in and proprietary bias.
 
 ### Agency Neutrality
-
-Standards and tools are designed to be applicable across organizations and jurisdictions.
+Projects should be adaptable across institutions, jurisdictions, and organizational contexts.
 
 ### Machine Readability
-
-Documents and standards should be structured in ways that enable automation, validation, and AI assistance.
+Documents and specifications should be structured for automation, validation, and AI-assisted reasoning.
 
 ### Open Collaboration
-
-Researchers, developers, policy experts, and practitioners are welcome to contribute.
-
----
-
-## Current Focus Areas
-
-The organization is currently exploring open standards related to public sector project specifications, including:
-
-- **AI-friendly Terms of Reference (TOR)**
-- Machine-readable procurement specifications
-- Open documentation standards for public sector projects
-- Tools for validating and analyzing project requirements
+Researchers, developers, policy practitioners, and interested contributors are welcome to participate.
 
 ---
 
-## Core Repositories
+## Current Focus
 
-| Repository        | Description                                         |
-| ----------------- | --------------------------------------------------- |
-| `tor-spec`        | Canonical specification for structured TOR models   |
-| `tor-schema`      | Machine-readable TOR schema                         |
-| `tor-examples`    | Example TOR documents and reference implementations |
-| `tor-tools`       | Tools for validation and automation                 |
-| `ai-friendly-tor` | Experiments with AI-assisted TOR generation         |
+The organization is currently focused on the earliest foundation layer of the ecosystem:
 
-_(Repositories may evolve as the project develops.)_
+- **TOR specification work**
+- terminology and conceptual modeling
+- conformance thinking for structured project documents
+- groundwork for future intent-centered models and traceability structures
+
+---
+
+## Repository Strategy
+
+The ecosystem is intended to grow in layers:
+
+1. **Foundation** — conceptual models and principles
+2. **Specifications** — formal structures and conformance rules
+3. **Examples** — reference cases and explainers
+4. **Applications** — domain-specific implementations such as TOR
+5. **Tools** — validators, generators, analyzers, and AI-assisted workflows
+
+At the moment, the organization is still in its early foundation stage.
+
+---
+
+## Current Repositories
+
+| Repository | Role |
+| --- | --- |
+| `tor-spec` | Early canonical specification work for structured and AI-friendly Terms of Reference |
+
+More repositories may be introduced as the conceptual foundation becomes stable.
+
+---
+
+## Governance Model
+
+ThaiOpenGov Lab currently operates as a **founder-led neutral lab**.
+
+That means:
+
+- the project direction is currently curated by the founder/maintainer
+- contributions are welcome from the public
+- governance may evolve as the ecosystem matures
+
+See `GOVERNANCE.md` for the current governance approach.
 
 ---
 
 ## Contributing
 
-We welcome contributions from anyone interested in improving transparency and collaboration in public sector technology.
+We welcome contributions from anyone interested in open public-sector standards, procurement reform, structured documentation, and intent-traceable systems.
 
 Before contributing, please review:
 
 - `CONTRIBUTING.md`
 - `CODE_OF_CONDUCT.md`
 - `GOVERNANCE.md`
-
-These documents explain how the project is organized and how decisions are made.
-
----
-
-## Governance Model
-
-ThaiOpenGov Lab currently operates as a **Neutral Lab initiative**, where the founder acts as the initial maintainer while encouraging open collaboration from the community.
-
-As the project grows, governance may evolve toward a broader maintainer and contributor model.
+- `SECURITY.md`
 
 ---
 
@@ -100,31 +132,10 @@ It is **not affiliated with, endorsed by, or representing any government agency 
 
 ---
 
-## Why This Project Exists
-
-Public sector projects often rely on complex specifications that are difficult to interpret, compare, or validate.
-
-By developing **open, structured, and machine-readable standards**, we hope to make these processes:
-
-- easier to understand
-- easier to review
-- easier to automate
-- more transparent
-
----
-
 ## Join the Discussion
 
-Community discussions, proposals, and questions are welcome through:
+Community discussion is welcome through:
 
 - GitHub Issues
-- GitHub Discussions
 - Pull Requests
-
-We encourage respectful and constructive collaboration.
-
----
-
-## License
-
-Unless otherwise specified, repositories under this organization are released under permissive open-source licenses to encourage reuse and collaboration.
+- future GitHub Discussions as the project grows
