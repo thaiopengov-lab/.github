@@ -1,15 +1,19 @@
-# .github
+# ThaiOpenGovLab Community Health Files
 
-Community health files and contribution guidelines for the **ThaiOpenGovLab** organization. These global documents define how our community operates and how you can get involved.
+This repository contains the shared community documents used across the **ThaiOpenGovLab** organization.
 
-## 📜 Key Documents
+These files define how the organization communicates, collaborates, and governs its open work.
 
-- [**Contributing Guidelines**](CONTRIBUTING.md): How to contribute code, research, and standards.
-- [**Code of Conduct**](CODE_OF_CONDUCT.md): Standards for a welcoming and inclusive community.
-- [**Security Policy**](SECURITY.md): How to report security vulnerabilities responsibly.
-- [**Support Resources**](SUPPORT.md): Where to get help and join the conversation.
-- [**Governance Model**](GOVERNANCE.md): Our "Neutral Lab" philosophy and community structure.
+## Included documents
 
----
+- [**Contributing Guidelines**](CONTRIBUTING.md) — how to contribute documentation, standards, research, and code
+- [**Code of Conduct**](CODE_OF_CONDUCT.md) — expectations for a respectful and constructive community
+- [**Security Policy**](SECURITY.md) — how to report vulnerabilities responsibly
+- [**Support Resources**](SUPPORT.md) — where to ask questions and seek help
+- [**Governance Model**](GOVERNANCE.md) — the current founder-led neutral lab model
 
-_ThaiOpenGovLab is an independent community dedicated to building open standards for the public sector. We welcome contributions from everyone, everywhere._
+## Purpose
+
+ThaiOpenGovLab is building open foundations for more traceable, machine-readable, and accountable public systems.
+
+This `.github` repository helps keep the organization consistent while individual repositories evolve at different speeds.
